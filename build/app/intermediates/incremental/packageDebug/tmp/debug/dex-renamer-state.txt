@@ -1,0 +1,4 @@
+#Wed May 10 15:34:23 IST 2023
+base.0=D\:\\gurpreet_projects\\unity_flutter_integration\\unity_flutter_git\\unity_in_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

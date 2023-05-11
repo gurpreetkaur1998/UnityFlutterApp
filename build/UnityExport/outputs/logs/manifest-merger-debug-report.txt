@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:3:1-15:12
+INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:3:1-15:12
+INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:3:1-15:12
+INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:3:1-15:12
+INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:3:1-15:12
+INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:3:1-15:12
+INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:3:1-15:12
+	package
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:3:70-98
+		INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+		INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:3:1-15:12
+		INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:3:99-145
+	android:versionCode
+		INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:3:1-15:12
+		INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:3:11-69
+application
+ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:4:3-10:17
+meta-data#unity.splash-mode
+ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:6:5-69
+	android:value
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:6:49-66
+	android:name
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:6:16-48
+meta-data#unity.splash-enable
+ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:7:5-74
+	android:value
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:7:51-71
+	android:name
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:7:16-50
+meta-data#notch.config
+ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:8:5-81
+	android:value
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:8:44-78
+	android:name
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:8:16-43
+meta-data#unity.build-id
+ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:9:5-101
+	android:value
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:9:46-98
+	android:name
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:9:16-45
+uses-feature#0x00020000
+ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:11:3-52
+	android:glEsVersion
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:11:17-49
+uses-feature#android.hardware.touchscreen
+ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:12:3-88
+	android:required
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:12:61-85
+	android:name
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:12:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:13:3-99
+	android:required
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:13:72-96
+	android:name
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:13:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:14:3-108
+	android:required
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:14:81-105
+	android:name
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml:14:17-80
+uses-sdk
+INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+		INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+		ADDED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
+		INJECTED from D:\gurpreet_projects\unity_flutter_integration\unity_flutter_git\unity_in_flutter\android\UnityExport\src\main\AndroidManifest.xml
